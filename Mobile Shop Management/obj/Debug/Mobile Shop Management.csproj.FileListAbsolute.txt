@@ -1,0 +1,20 @@
+D:\Facultate\Mobile Shop Management\Mobile Shop Management\bin\Debug\Mobile Shop Management.exe.config
+D:\Facultate\Mobile Shop Management\Mobile Shop Management\bin\Debug\Mobile Shop Management.exe
+D:\Facultate\Mobile Shop Management\Mobile Shop Management\bin\Debug\Mobile Shop Management.pdb
+D:\Facultate\Mobile Shop Management\Mobile Shop Management\bin\Debug\EntityFramework.dll
+D:\Facultate\Mobile Shop Management\Mobile Shop Management\bin\Debug\EntityFramework.SqlServer.dll
+D:\Facultate\Mobile Shop Management\Mobile Shop Management\bin\Debug\EntityFramework.xml
+D:\Facultate\Mobile Shop Management\Mobile Shop Management\bin\Debug\EntityFramework.SqlServer.xml
+D:\Facultate\Mobile Shop Management\Mobile Shop Management\obj\Debug\Mobile Shop Management.csproj.AssemblyReference.cache
+D:\Facultate\Mobile Shop Management\Mobile Shop Management\obj\Debug\Mobile Shop Management.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\Mobile Shop Management\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.Customer.resources
+D:\Facultate\Mobile Shop Management\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.Home.resources
+D:\Facultate\Mobile Shop Management\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.Login.resources
+D:\Facultate\Mobile Shop Management\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.MobilePhone.resources
+D:\Facultate\Mobile Shop Management\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.Properties.Resources.resources
+D:\Facultate\Mobile Shop Management\Mobile Shop Management\obj\Debug\Mobile_Shop_Management.View.resources
+D:\Facultate\Mobile Shop Management\Mobile Shop Management\obj\Debug\Mobile Shop Management.csproj.GenerateResource.cache
+D:\Facultate\Mobile Shop Management\Mobile Shop Management\obj\Debug\Mobile Shop Management.csproj.CoreCompileInputs.cache
+D:\Facultate\Mobile Shop Management\Mobile Shop Management\obj\Debug\Mobile Shop Management.csproj.CopyComplete
+D:\Facultate\Mobile Shop Management\Mobile Shop Management\obj\Debug\Mobile Shop Management.exe
+D:\Facultate\Mobile Shop Management\Mobile Shop Management\obj\Debug\Mobile Shop Management.pdb
